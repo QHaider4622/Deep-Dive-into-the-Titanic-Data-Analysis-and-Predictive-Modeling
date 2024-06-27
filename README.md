@@ -118,7 +118,7 @@ The models were evaluated using metrics such as Accuracy, Precision, Recall, F1 
 
 ### Best Performing Model
 
-The best performing model was **Random Forest ** with an accuracy of ** 0.83 ** and an F1 Score of ** 0.822**.
+The best performing model was **Random Forest** with an accuracy of **0.83** and an F1 Score of **0.822**.
 
 ## References
 - [Kaggle Dataset](https://www.kaggle.com/c/titanic/data)
