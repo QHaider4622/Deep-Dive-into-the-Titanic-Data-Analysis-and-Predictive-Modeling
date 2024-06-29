@@ -1,4 +1,4 @@
-# Deep-Dive-into-the-Titanic-Data-Analysis-and-Predictive-Modeling
+# Deep Dive into the Titanic Data Analysis and Predictive Modeling
 
 This project involves analyzing the Titanic dataset and building machine learning models to predict the survival of passengers. The dataset used in this project is from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
